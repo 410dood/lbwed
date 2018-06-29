@@ -38,14 +38,14 @@ const websiteContent = (
         <div className="row">
           <div className="one-half column">
             <p>
-              <a href="img/jocelyn-baby.jpg"><img className="thumbnail" src="img/jocelyn-baby.jpg" alt="Jocelyn" /></a>
+              <a href="img/halloween.jpg"><img className="thumbnail" src="img/halloween.jpg" alt="Halloween" /></a>
               Lizzy, aka 'eliza pink' is a sweet girl who always sees the beauty in people. She is pretty awesome. She hates spiders and vows to always cut my toenails.
             </p>
           </div>
 
           <div className="one-half column">
             <p>
-              <a href="img/kal-baby.jpg"><img className="thumbnail" src="img/kal-baby.jpg" alt="Kal" /></a>
+              <a href="img/allwhite.jpg"><img className="thumbnail" src="img/allwhite.jpg" alt="allwhite" /></a>
               Bill is a burly and impatient Human who loves procrastinating. He moved from his homeland Annapolis to the lovely city of Denver at the young and
               tender age of 25. Bill then found himself in the IT mecca of Colorado and realized after 9 years of the beautiful mountain backdrop
               and serene lakes that he needs to escape to the center of the universe, his pool.
@@ -57,7 +57,7 @@ const websiteContent = (
       <hr />
 
       <p>
-        <img className="large-image" src="img/wedding2.jpg" alt="Bill Proposing To Liz" />
+        <img className="large-image" src="img/burnetts.jpg" alt="Bill Proposing To Liz" />
       </p>
 
       <h2>OUR STORY</h2>
@@ -82,14 +82,14 @@ const websiteContent = (
         </div>
         <div className="one-half column">
           <h2>RECEPTION</h2>
-          <p>18:15 @ TBD</p>
+          <p>5:15 @ Chief Hosa Lodge</p>
           <p>
-            <a href="img/bonjlesbainsbeachclub.jpg"><img className="location-image" src="img/bonjlesbainsbeachclub.jpg" alt="Bonj Les Bains Beach Club" /></a>
+            <a href="img/pool1.jpg"><img className="location-image" src="img/pool1.jpg" alt="Bonj Les Bains Beach Club" /></a>
           </p>
           <p style={{ textAlign: "center" }}>
-            <a href="https://goo.gl/maps/MGBa94iBaA42">Google Maps</a> | <a href="img/city-hvar-map.jpg">Tourist Map</a>
+            <a href="https://goo.gl/maps/MGBa94iBaA42">Google Maps</a> | <a href="img/pool1.jpg">Tourist Map</a>
           </p>
-          <p>Who knows
+          <p>Probably somewhere really cool. Possibly in golden. Probably will be really fun.
           </p>
         </div>
       </div>
@@ -110,18 +110,17 @@ const websiteContent = (
       <hr />
 
       <h2>DAY BEFORE THE WEDDING (30 August)</h2>
-      <p>Welcome cocktails will be held on the terrace of <a href="https://goo.gl/Vd3ZJd">Restaurant Park Hvar</a> from 18:30 to 23:30.
+      <p>Welcome cocktails will be held on the terrace of <a href="img/pool1">our pool</a> from 11:30 to 11:30.
       </p>
       <p>
-        Cocktail night attire is dressy-casual.
+        Cocktail night attire is casual.
       </p>
 
       <hr />
 
       <h2>DAY AFTER THE WEDDING (1 September)</h2>
-      <p>Farewell brunch will be held at 11:00 at the&nbsp;
-         <a href="http://www.suncanihvar.com/amfora-hvar-grand-beach-resort/maestral-balkan-grill.html">Maestral Restaurant</a>. It is located
-         just a few meters on the path that takes you to the <a href="https://goo.gl/r9TFHt">wedding venue</a>.
+      <p>PARK DAY at the&nbsp;
+         <a href="https://goo.gl/maps/F3mYtfjFqu72">Wash Park</a>.
       </p>
       <p>
         Brunch attire is wear anything you want :)
@@ -134,7 +133,7 @@ const websiteContent = (
     </TopicContainer>
 
     <TopicContainer id="logistics" title="Logistics">
-      <p>We understand that going to a different country to attend a wedding can be a daunting experience. That's why in this section
+      <p>We understand that going to a different state to attend a wedding can be a daunting experience. That's why in this section
          we have tried to compile information and links to help make your travel and hotel booking as simple as possible and to give
          you ideas for how to make a complete vacation out of your trip. Please read through it and if you feel you need any additional
          information or help, do not hesitate to contact us.
@@ -142,35 +141,26 @@ const websiteContent = (
 
       <hr />
 
-      <h2>GETTING TO CROATIA</h2>
-      <p>Being a popular summer tourist destination, getting to Croatia is relatively easy. The closest major city to Hvar is&nbsp;
-         <a href="https://goo.gl/maps/a8JeWAEuugN2">Split</a> and it is fairly well connected by pretty much all European airlines
- and some low-cost carriers, such as&nbsp;
-         <a href="https://wizzair.com/#/booking/select-flight/LTN/SPU/2017-08-22/2017-09-02/1/0/0">WizzAir</a> and&nbsp;
-         <a href="https://www.eurowings.com/en.html">Eurowings</a>.
+      <h2>GETTING TO DENVER</h2>
+      <p>Being a popular summer tourist destination, getting to Colorado is relatively easy. Just fly into DIA and take the train into the city. DIA was build way out in the middle of nowhere so it takes a bit to get into the city, but you can actually take the train all the way out to golden (****include some stuff here) is&nbsp;
+         <a href="https://www.rtd-denver.com/app/plan/trip?at=2018-06-29T15%3A55%3A22.900Z&from=place_ChIJ_0T_mCp_bIcRapy1NbQ7WEk&minimize=TIME&to=stop_34241&using=mode_transit&when=depart">SEE THIS LINK</a>
       </p>
-      <p>The second closest major airport is in <a href="https://goo.gl/maps/goc5oZWa3wC2">Dubrovnik</a>. It is about 5 hours away
-         from Hvar via a ferry, which is kind of far, but if you are planning on doing some touring before or after the wedding it is
-         a great location to visit. Have a look at the 'Things to do section' further down for more information on that.
-      </p>
-      <p>As of the time of writing there are no&nbsp;
-         <a href="https://www.kayak.com/flights/NYC-SPU/2017-08-25/2017-09-02/2adults">direct flights</a>&nbsp;
- from the US or Canada to Croatia, so guests coming from there will have to do at least one connection in a major European hub
- such as Frankfurt, Zurich or Amsterdam.
+      <p>The second closest major airport is in <a href="https://goo.gl/maps/TLC5HeWhNR42">Colorado Springs</a>. It is about 2.5 hours away
+         from Denver, but sometimes cheaper.
       </p>
 
       <hr />
 
       <p>
-        <img className="large-image" src="img/hvar.jpg" alt="Hvar town" />
+        <img className="large-image" src="img/DenverSkyline1.jpg" alt="Hvar town" />
       </p>
 
-      <h2>FERRY TO THE ISLAND OF HVAR</h2>
+      {/* <h2>FERRY TO THE ISLAND OF HVAR</h2>
       <p>The Split airport is located about 25km (16mi) from the harbour from where the ferries leave for Hvar. According to the bus
          company's <a href="http://www.buscroatia.com/airport-split/">website</a> a taxi should cost about 35 EUR/40 USD for 1-3 people
- while the bus costs around 4 EUR/5 USD per person. Unless you are in a real hurry to catch a ferry, we recommend taking the
- bus. They are big white coaches just a few steps to the left after you exit though the main airport entrance and we found them
- to be very comfortable and convenient. They accept both cash and credit card for payment.
+while the bus costs around 4 EUR/5 USD per person. Unless you are in a real hurry to catch a ferry, we recommend taking the
+bus. They are big white coaches just a few steps to the left after you exit though the main airport entrance and we found them
+to be very comfortable and convenient. They accept both cash and credit card for payment.
       </p>
 
       <div id="gmap">
@@ -217,52 +207,44 @@ const websiteContent = (
          pickup from the airport. The sailing part of the journey takes between 45 min to 1 hour, which is similar to the catamaran service,
          but is a little bit more convenient because it also includes a pickup from the airport. If you choose this option, there is a 5%
          discount using <SecretTooltip fnTooltip={() => { return 'adriaticweddings'; }}>this code</SecretTooltip> (please click on the
- 'this' in order to show it).
+'this' in order to show it).
       </p>
 
-      <hr />
+      <hr /> */}
 
       <h2>DRIVING</h2>
-      <p>For those renting a car or driving to Croatia, we found the driving conditions on the island to be good and there is a
-         parking spot right in the center of the town for 1 EUR/hour or 12 EUR/day.
+      <p>For those Driving from MD, just get on I-70 and Drive 22.3 hours until you see the chief hosa exit.
       </p>
+
       <p>
-        Please note that unless you are coming by car to the island of Hvar, there should not be a need for you to rent one. There are
-        many organized boat trips to discover the surrounding Dalmatian islands and cabrio cars can be rented daily at a fairly decent
-        price from Hvar itself and the paperwork is not that much. For example we rented this funny car for about 60 USD for a day trip:
-      </p>
-      <p>
-        <img className="large-image" src="img/hvar-rental-car.jpg" alt="Day car rental" />
+        <img className="large-image" src="img/tandem1.jpg" alt="Day car rental" />
       </p>
 
       <hr />
 
       <h2>ACCOMMODATIONS</h2>
-      <p>Once on the island in Hvar Town there are various accommodation options ranging from fancy hotels to renting an apartment
-         on <a href="https://goo.gl/uHTDYn">AirBnB</a>. The wedding will be in the Amfora Resort so any accommodation within walking
- distance from there should be fine.
+      <p>Hotel stuff<a href="https://goo.gl/uHTDYn">AirBnB</a>.
       </p>
-      <p>From our research we have found that hotels are fairly expensive and there are very nice AirBnB options available, so we highly
+      {/* <p>From our research we have found that hotels are fairly expensive and there are very nice AirBnB options available, so we highly
          recommend doing that.
       </p>
       <p>For guests wishing to stay in a hotel, the <a href="http://www.suncanihvar.com/">Suncani Hvar</a> chain of hotels offers a 20%
          discount using <SecretTooltip fnTooltip={() => { return 'WEDDKALOIANJOCELYN'; }}>this code</SecretTooltip> (please click on the
          'this' in order to show it). The code must be entered in the <i>"Corporate/Promo Code ?"</i> section for the discounted prices to
- apply and is valid for staying 5 days prior and 5 days after the wedding day. While this code indeed reduces the listed prices,
+apply and is valid for staying 5 days prior and 5 days after the wedding day. While this code indeed reduces the listed prices,
          we have found that booking through <a href="https://goo.gl/2xzaIg">Expedia</a> or <a href="https://goo.gl/z6zsZk">Hotels.com</a>&nbsp;
- shows about the same prices or in some cases even cheaper, so please bear that in mind as well.
-      </p>
+shows about the same prices or in some cases even cheaper, so please bear that in mind as well.
+      </p> */}
     </TopicContainer>
 
-    <TopicContainer id="thingstodo" title="Things to do in Croatia">
-      <p>Since all of you are coming from different parts of the world, we presume that you would like to make a full vacation out of your
-         trip to Croatia. In this section we are listing some of the main tourist places to visit and have suggestions for routes to take.
-         As a disclaimer, some of these suggestions are compiled from various online sources such as Lonely Planet and not locations we
-         have actually visited, but trust us - they are awesome :)
+    <TopicContainer id="thingstodo" title="Things to do in Denver">
+      <p>Since all of you are coming from different parts of the country, we presume that you would like to make a full vacation out of your
+         trip to Denver. In this section we are listing some of the main tourist places to visit and have suggestions for routes to take.
+
       </p>
       <br />
 
-      <h2><a href="https://www.lonelyplanet.com/croatia/dubrovnik">DUBROVNIK</a></h2>
+      {/* <h2><a href="https://www.lonelyplanet.com/croatia/dubrovnik">DUBROVNIK</a></h2>
       <p>
         <img className="large-image" src="img/dubrovnik.jpg" alt="Dubrovnik old city" />
       </p>
@@ -271,7 +253,7 @@ const websiteContent = (
          location to fly into and work your way up the coast to Hvar. On top of that, for the 'Game of Thrones' fans, quite a few scenes from
          this show were filmed in Dubrovnik. See&nbsp;
          <a href="http://www.telegraph.co.uk/travel/maps-and-graphics/game-of-thrones-filming-locations-guide/">this article</a> for more
- information.
+information.
       </p>
       <br />
 
@@ -292,11 +274,11 @@ const websiteContent = (
       <p>The Dalmatian islands (one of which is Hvar) offer amazing scenery, nice beaches and sailing opportunities. Island hopping, swimming and
          sunbathing is great way to spend a few days or even a week. Of these islands, Hvar is deemed as the 'party island' while&nbsp;
          <a href="https://www.lonelyplanet.com/croatia/dalmatia/mljet-island">Mljet</a> is the most scenic and tranquil. It is located between Hvar
- and Dubrovnik.
-      </p>
+and Dubrovnik.
+      </p> */}
     </TopicContainer>
 
-    <TopicContainer id="gifts" title="Gifts">
+    {/* <TopicContainer id="gifts" title="Gifts">
       <p>Dear family and friends,</p>
       <p>We feel honoured that you are all travelling a long way to come and celebrate our special day with us. For this reason we don't
          want anyone to feel obliged to buy us gifts. Your presence is the biggest gift.
@@ -306,7 +288,7 @@ const websiteContent = (
       </p>
       <p>Thank you in advance!
       </p>
-    </TopicContainer>
+    </TopicContainer> */}
 
   </div>
 );
