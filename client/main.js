@@ -99,8 +99,7 @@ const websiteContent = (
       <h2>ON THE WEDDING DAY</h2>
       <p>The ceremony will start at 4:45 at the Chief Hosa Spot
       </p>
-      <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception where drinks and appetizers will
-         be served.
+      <p>After the ceremony we will get super drunk and then go to pavs
       </p>
       <p>
         Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
