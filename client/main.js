@@ -39,16 +39,16 @@ const websiteContent = (
           <div className="one-half column">
             <p>
               <a href="img/halloween.jpg"><img className="thumbnail" src="img/halloween.jpg" alt="Halloween" /></a>
-              Lizzy, aka 'eliza pink' is a sweet girl who always sees the beauty in people. She is pretty awesome. She hates spiders and vows to always cut my toenails.
+              Lizzy, aka 'eliza pink' is a sweet girl who always sees the beauty in people.
             </p>
           </div>
 
           <div className="one-half column">
             <p>
               <a href="img/allwhite.jpg"><img className="thumbnail" src="img/allwhite.jpg" alt="allwhite" /></a>
-              Bill is a burly and impatient Human who loves procrastinating. He moved from his homeland Annapolis to the lovely city of Denver at the young and
-              tender age of 25. Bill then found himself in the IT mecca of Colorado and realized after 9 years of the beautiful mountain backdrop
-              and serene lakes that he needs to escape to the center of the universe, his pool.
+              Bill is a ......... He moved from his homeland Annapolis to the lovely city of Denver at the young and
+              tender age of 24. Bill then found himself in the IT mecca of Colorado and realized after 5 years of the beautiful mountain backdrop
+              and serene lakes that he wanted to change career's and do something he was passionate about, coding.
             </p>
           </div>
         </div>
@@ -57,12 +57,12 @@ const websiteContent = (
       <hr />
 
       <p>
-        <img className="large-image" src="img/burnetts.jpg" alt="Bill Proposing To Liz" />
+        <img className="large-image" src="img/tandem1.jpg" alt="Bill Proposing To Liz" />
       </p>
 
       <h2>OUR STORY</h2>
       <p>
-        2 fish and a bottle of Cherry Burnetts. The End.
+        We met in 4th grade. The End.
       </p>
     </TopicContainer>
 
