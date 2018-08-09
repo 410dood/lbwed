@@ -25,7 +25,6 @@
     "es6-object-assign": "^1.0.3",
     "es6-promise": "^4.1.1",
     "express": "^4.16.3",
-    "fsevents": "^1.2.4",
     "isomorphic-fetch": "^2.2.1",
     "mongoose": "^4.11.2",
     "node-fetch": "^1.6.3",
@@ -49,5 +48,8 @@
     "json-loader": "^0.5.4",
     "webpack": "^2.7.0",
     "webpack-node-externals": "^1.5.4"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
   }
 }
