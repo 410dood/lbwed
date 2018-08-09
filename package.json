@@ -4,9 +4,6 @@
   "description": "Liz and Bill Wedding Website",
   "private": true,
   "bin": "./bin/app.bundle.js",
-  "engines": {
-    "node": "10.7.0"
-  },
   "scripts": {
     "install": "webpack",
     "start": "node ./bin/app.bundle.js"
